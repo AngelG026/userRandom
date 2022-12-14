@@ -3,5 +3,10 @@
     <string name="datos_personales">Datos Personales</string>
     <string name="email">Email:</string>
     <string name="contacto">Contacto</string>
-    <string name="nombre">Nombre</string>
+    <string name="nombre">Nombre:</string>
+    <string name="f_nacimiento">F. Nacimiento:</string>
+    <string name="genero">Genero:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="celular">Celular:</string>
+    <string name="direcci_n">Dirección:</string>
 </resources>
